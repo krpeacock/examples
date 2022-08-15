@@ -1,0 +1,14 @@
+{
+  "name": "dip721-nft-container",
+  "version": "1.0.0",
+  "description": "## Summary",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --es-module-specifier-resolution=node src/dfnode/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
